@@ -28,7 +28,7 @@ for (let i = 0; i < 11; i++) {
 ​}
 //write a for loop that counts from 10 to 0 in the console.
 
-for (let i = 0; i < 10; i++) {
+for (let i = 11; i > 10; i--) {
     console.log(i);
 ​}
 //=============================================================================================================

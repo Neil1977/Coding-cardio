@@ -1,33 +1,27 @@
 //NO PHONE, NO EMAILS, NO COPY AND PASTING!!!
 ​
 //write a for loop that counts from 0 to 10 in the console
-
 for (let i = 0; i < 11; i++) {
 console.log(i);
 }
 
 // write a for loop that counts from 0 to 20 in the console.
-
 for (let i = 0; i < 21; i++) {
     console.log(i);
 ​}
 // write a for loop that counts from 10 to 0 in the console.
-
 for (let i = 11; i > 0; i--) {
     console.log(i);
 ​}
 // write a for loop that counts from 20 to 0 in the console.
-
 for (let i = 21; i > 0; i++) {
     console.log(i);
 ​}
 //write a for loop that counts from 0 to 10 by 2's in the console (0,2,4,6,8,10)
-
 for (let i = 0; i < 11; i+=2) {
     console.log(i);
 ​}
 //write a for loop that counts from 10 to 0 in the console.
-
 for (let i = 11; i > 10; i--) {
     console.log(i);
 ​}
@@ -60,12 +54,15 @@ function addsThree(x, y, z) {
 ​function multiplier(x, y, z) {
     return (x * y) * z;
     }
-    console.log(adds(2, 4, 6));
-//write a function that adds an exclaimation mark to a string
+    console.log(multiplier(2, 4, 6));
 
-function shocked("") {
+//write a function that adds an exclaimation mark to a string
+function shocked(a) {
 
     return
     }
     console.log(shocked);
 //write a function that joins two strings together.
+function joiner(a, b) {
+    
+}

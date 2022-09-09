@@ -23,7 +23,7 @@ for (let i = 21; i > 0; i++) {
 ​}
 //write a for loop that counts from 0 to 10 by 2's in the console (0,2,4,6,8,10)
 
-for (let i = 0; i < 11; i++) {
+for (let i = 0; i < 11; i+=2) {
     console.log(i);
 ​}
 //write a for loop that counts from 10 to 0 in the console.

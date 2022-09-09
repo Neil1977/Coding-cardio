@@ -58,11 +58,13 @@ function addsThree(x, y, z) {
 
 //write a function that adds an exclaimation mark to a string
 function shocked(a) {
-
-    return
+    let a = "SHOCKED" 
+    return a + "!";
     }
     console.log(shocked);
+
 //write a function that joins two strings together.
 function joiner(a, b) {
-    
+    return (str.concat('', ''));
 }
+console.log(joiner(a,b))

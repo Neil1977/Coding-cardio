@@ -69,6 +69,7 @@ function joiner(a, b) {
 }
 console.log(joiner(a,b))
 
+//W11D1
 //NO PHONE, NO EMAILS, NO COPY AND PASTING!!!
 
 //write a for loop that counts from 0 to 10 in the console
